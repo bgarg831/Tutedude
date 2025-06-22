@@ -6,3 +6,7 @@ Module 2 Task 2: Create a Personalized Greeting
 Assignment 2
 Module 3 Task 1: Control Structures in Python
 Module 3 Task 2: Sum of Integers from 1 to 50 Using a Loop
+
+Assignment 3
+Module 4 Task 1:Calculate Factorial Using a Function
+Module 4 Task 2:Using the Math Module for Calculations
